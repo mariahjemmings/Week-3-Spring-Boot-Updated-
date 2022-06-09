@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jeep-sales</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/resources/flyway/migrations/V1.0__Jeep_Schema.sql</name>
+			<type>1</type>
+			<location>C:/Users/tomsilver/Documents/workspace-spring-tool-suite-4-4.14.1.RELEASE/jeep-sales/src/test/resources/flyway/migrations/V1.0__Jeep_Schema.sql</location>
+		</link>
+		<link>
+			<name>src/test/resources/flyway/migrations/V1.1__Jeep_Data.sql</name>
+			<type>1</type>
+			<location>C:/Users/tomsilver/Documents/workspace-spring-tool-suite-4-4.14.1.RELEASE/jeep-sales/src/test/resources/flyway/migrations/V1.1__Jeep_Data.sql</location>
+		</link>
+	</linkedResources>
+</projectDescription>
